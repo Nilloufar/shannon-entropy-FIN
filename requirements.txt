@@ -1,0 +1,13 @@
+matplotlib
+torch
+numpy
+tqdm
+torch_scatter
+torch_sparse
+torch_geometric
+unrar
+mne
+omegaconf
+hydra-core
+
+
